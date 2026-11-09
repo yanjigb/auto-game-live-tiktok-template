@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* auto-game-live-tiktok brand colors */
+@theme {
+  --color-game-red: #ff2e63;
+  --color-game-purple: #a853fa;
+  --color-game-orange: #ff6b35;
+  --color-game-bg: #0a0a0f;
+  --color-game-surface: #12121a;
+  --color-game-text: #f0f0f5;
+  --color-game-muted: #8888a0;
+}
